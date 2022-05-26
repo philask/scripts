@@ -3,6 +3,8 @@
 *
 * https://blog.kchung.co/how-to-save-your-wordle-scores/amp/
 *
+* Also I realise this isn't the most efficient code, was trying to make it readable...
+*
 */
 
 wordleState = JSON.stringify(localStorage.getItem('nyt-wordle-state'));
